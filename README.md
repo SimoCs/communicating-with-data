@@ -1,7 +1,7 @@
 # Readme
 
 Python data visualization examples for use in Pluralsight **Communicating with Data** video course.
-- **Elements of Data_Storytelling**
+- **Elements of Data Storytelling**
 - **Examples of Non-technical vs. Technical Audience Visualization**
 
 # Connect with me
